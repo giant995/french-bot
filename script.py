@@ -29,3 +29,8 @@ def greeting():
     print(f"Apparently you're feeling {feeling}")
 
 greeting()
+
+# What to add next? How do I expand this application?
+# Integrate Twilio's autopilot API to build a more elegant and mature bot, perhaps?
+# Next bot questions for user: ask about where they are from, goals, what are they learning 
+# purpose of bot is to have increasingly meaningful basic conversations in French
